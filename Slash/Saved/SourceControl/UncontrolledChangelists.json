@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Games/unreal-course/Slash/Content/StarterContent/Audio/Collapse01.uasset"
+				"D:/Unreal Games/unreal-course/Slash/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Unreal Games/unreal-course/Slash/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Unreal Games/unreal-course/Slash/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
 			]
 		}
 	]
